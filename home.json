@@ -1,0 +1,462 @@
+{
+    "code": 0,
+    "msg": "Data obtained successfully",
+    "data": {
+        "top_list": [
+            "Player36249597 successfully withdraws ₹ 110",
+            "Player48263134 successfully withdraws ₹ 500",
+            "Player71896230 successfully withdraws ₹ 110",
+            "Player26367490 successfully withdraws ₹ 500",
+            "Player43343248 successfully withdraws ₹ 300",
+            "Player36249597 successfully withdraws ₹ 110",
+            "Player63038236 successfully withdraws ₹ 110",
+            "Player85178737 successfully withdraws ₹ 300",
+            "Player64138475 successfully withdraws ₹ 500",
+            "Player21966539 successfully withdraws ₹ 500",
+            "Player24574371 successfully withdraws ₹ 500",
+            "Player95909780 successfully withdraws ₹ 110",
+            "Player96920064 successfully withdraws ₹ 110",
+            "Player39488927 successfully withdraws ₹ 300",
+            "Player92744708 successfully withdraws ₹ 110",
+            "Player25772296 successfully withdraws ₹ 110",
+            "Player24346272 successfully withdraws ₹ 110",
+            "Player78754712 successfully withdraws ₹ 110",
+            "Player23640344 successfully withdraws ₹ 500",
+            "Player08668725 successfully withdraws ₹ 2000"
+        ],
+        "banner_list": [
+            {
+                "title": "New User Benefits",
+                "img": "https://in-file.aagame.io/upload/abBannerRes/93dea9ce52e668ff0e74ad6c27361702.png",
+                "jump_type": 19,
+                "jump_to": "",
+                "user_type": 1
+            },
+            {
+                "title": "Betting Ranking Started！",
+                "img": "https://in-file.aagame.io/upload/abBannerRes/4c5ae59ef584b1bed1a97fb862972986.png",
+                "jump_type": 8,
+                "jump_to": "",
+                "user_type": 0
+            },
+            {
+                "title": "Get ₹ 200",
+                "img": "https://in-file.aagame.io/upload/abBannerRes/b870f6be912b3ba7dfa589e05065ad16.png",
+                "jump_type": 4,
+                "jump_to": "",
+                "user_type": 0
+            },
+            {
+                "title": "REBATE UP TO 1.5%",
+                "img": "https://in-file.aagame.io/upload/abBannerRes/41eac13f79447d243f7dfb54dce87f99.png",
+                "jump_type": 18,
+                "jump_to": "",
+                "user_type": 0
+            },
+            {
+                "title": "VIP",
+                "img": "https://in-file.aagame.io/upload/abBannerRes/f5cd55fd675600854c0c7edb513bfc0c.png",
+                "jump_type": 17,
+                "jump_to": "",
+                "user_type": 0
+            }
+        ],
+        "channel_list": [
+            {
+                "channel_id": 1,
+                "channel": "Hot",
+                "logo": "https://in-file.aagame.io/upload/abGameRes/34e3045d9b5955742e0e26cb854a2342.png",
+                "active": "https://in-file.aagame.io/upload/abGameRes/5f50f96c4a3488445177219f165b1a75.png",
+                "list": [
+                    {
+                        "id": 5678,
+                        "title": "Evolution",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typed4/d49ccc1aad1777c3497dd2d32717c8df.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 18,
+                        "title": "JILI",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type45/4524275d86e57cbe4ee20db712243f90.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 3
+                    },
+                    {
+                        "id": 5734,
+                        "title": "Crash",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type0a/0a8963ee3f543a735ec22414585c2f4f.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 5677,
+                        "title": "Hindi Roulette",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typefd/fddd10a5fe1b94ae93e4ec3bd5a4aa1f.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 22,
+                        "title": "Crazy Time",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typedd/dd7ee8df8e016c2d61ac86e133c46058.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4737,
+                        "title": "Dragon Fishing II",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typeef/efc7348a82b62b42960bdb033bb60078.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4436,
+                        "title": "Money Coming",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typea7/a70039744056a833fa32890b97ce1f64.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4378,
+                        "title": "Crazy777",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type72/72c3a1aac23ee57106f73906814d3172.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 5120,
+                        "title": "Fortune Gems",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type59/59b98c57a5eb78642e03081df89b3ea3.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 177,
+                        "title": "Funky Time",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typed2/d2217a094263a9bdc23e8f0d564762b2.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 33,
+                        "title": "Lightning Roulette",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type67/670591d0bf9cb40cba6e7d2ff0c176e4.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4396,
+                        "title": "Andar Bahar",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type63/6333b89c35dfca1f615508b5f6152445.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4375,
+                        "title": "Charge Buffalo",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type35/358cf75ca5460080a2be846a857c1386.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4395,
+                        "title": "Teen Patti",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type99/997ff916e79fc92e8edddc498fcb31dd.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4401,
+                        "title": "Rummy",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type96/9630839ca5205ab22a6711e81b477da7.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 110,
+                        "title": "Dream Catcher",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type5b/5b67db778680628c9d47d8ef43098312.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4385,
+                        "title": "Go Rush",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typecf/cfcb6b765d6212b53b388f9cadca7584.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4403,
+                        "title": "7up7down",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typeb2/b2942e495c2b1b7a39153df5fe8621a2.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 2387,
+                        "title": "Dragon Tiger",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type0a/0abbb5de0a8fda70348420a15c26f5ed.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 113,
+                        "title": "Super Andar Bahar",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type5a/5a267782df8085e892a7faec4ab3c2e4.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4437,
+                        "title": "Super Ace",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type91/918c8547bdd0914208264be25f20371b.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    }
+                ]
+            },
+            {
+                "channel_id": 2,
+                "channel": "Casino",
+                "logo": "https://in-file.aagame.io/upload/abGameRes/34395e42754b318f6e02cc39d33680e2.png",
+                "active": "https://in-file.aagame.io/upload/abGameRes/e5b0bfd012a95305e32643ec3df6016c.png",
+                "list": [
+                    {
+                        "id": 5678,
+                        "title": "Evolution",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type58/58a1ea6fc39e932194074c5f83f49faf.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    },
+                    {
+                        "id": 5235,
+                        "title": "Playtech",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type57/57ba9799a0189f82a348562dfd534605.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    }
+                ]
+            },
+            {
+                "channel_id": 3,
+                "channel": "Slots",
+                "logo": "https://in-file.aagame.io/upload/abGameRes/aeb3c153b630934d90bac4017392efe6.png",
+                "active": "https://in-file.aagame.io/upload/abGameRes/2baa0008d5995db58013a2ef6a303c7b.png",
+                "list": [
+                    {
+                        "id": 18,
+                        "title": "JILI",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type41/41c39fb8ee71990fbb856efdb3bf6383.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 1
+                    },
+                    {
+                        "id": 19,
+                        "title": "PG",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type34/34b4e9350858e317b132b2b709beb15e.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 1
+                    },
+                    {
+                        "id": 21,
+                        "title": "Microgaming",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type31/31c7cf82cd2540313997a666df984b75.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 1
+                    },
+                    {
+                        "id": 20,
+                        "title": "JDB",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typef5/f5ab1342d4c5d4e6ec29d1f4c69c1750.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 1
+                    },
+                    {
+                        "id": 22,
+                        "title": "HABANERO",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type74/7499b1432d578c9f707be4647e09191d.png",
+                        "game_type": "CasinoSlot",
+                        "type": 3,
+                        "show": 1
+                    }
+                ]
+            },
+            {
+                "channel_id": 5,
+                "channel": "Games",
+                "logo": "https://in-file.aagame.io/upload/abGameRes/e51f5477a75f98f7dbff8a82abd5a71f.png",
+                "active": "https://in-file.aagame.io/upload/abGameRes/e0d6df1f4852816b763cb4d627402e2c.png",
+                "list": [
+                    {
+                        "id": 4476,
+                        "title": "Tongits Go",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type52/52a3320ad3adea1113000ab2abec7b88.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4392,
+                        "title": "TeenPatti 20-20",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type6e/6efc5f9f970619aedd15ea91706b5668.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4387,
+                        "title": "Ludo Quick",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type96/96bf4126414c9cad9f4bd73b5954194f.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 5247,
+                        "title": "Teen Patti",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type23/23430f309f00d0a40b0f83e6e2df0c41.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4390,
+                        "title": "Pusoy Go",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typed3/d32a32ddc163df6f94a5b0130c4794fd.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4486,
+                        "title": "Black Jack",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typeb5/b51f7e5c36b4165f3cc1fa67fccd88dc.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4391,
+                        "title": "Callbreak Quick",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type6f/6f540eba1f3fae1da3ca7d76074949c7.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4393,
+                        "title": "AK47",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typead/ad67e8eb85b4e8b7361ed2463b8b6c40.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    },
+                    {
+                        "id": 4476,
+                        "title": "Tongits Go",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type52/52565b44b5da6b0b365a0d4268788d75.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 3
+                    }
+                ]
+            },
+            {
+                "channel_id": 6,
+                "channel": "Fishing",
+                "logo": "https://in-file.aagame.io/upload/abGameRes/ce7caf27c136717fee5cfc063cc6615b.png",
+                "active": "https://in-file.aagame.io/upload/abGameRes/886fb7f5725e0ab10999dd7d5457e779.png",
+                "list": [
+                    {
+                        "id": 4737,
+                        "title": "Dragon Fishing II",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typecf/cf1c616c8a32bcdecfe46c9af04eebf0.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    },
+                    {
+                        "id": 4735,
+                        "title": "Cai Shen Fishing",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typebe/beeeaa2b4ec87dc9d8ae4108cb00e4d9.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    },
+                    {
+                        "id": 4459,
+                        "title": "Mega Fishing",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/typea0/a0419d0fa2699dfdce694406cfc8d09a.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    },
+                    {
+                        "id": 4734,
+                        "title": "Five Dragons Fishing",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type02/02a3087ab5cf3d1f614ea0a1057a5cd3.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    },
+                    {
+                        "id": 4467,
+                        "title": "Jackpot Fishing",
+                        "cover": "https://in-file.aagame.io/upload/abGameRes/type88/886200cf7df743498c88df44c2ab4844.png",
+                        "game_type": "",
+                        "type": 1,
+                        "show": 1
+                    }
+                ]
+            }
+        ],
+        "activity_list": [
+            {
+                "icon": "https://in-file.aagame.io/upload/abAnnouncementRes/9de86c177ca94c927c6a09178ec5dcee.png",
+                "title": "排行榜",
+                "jump_type": 8,
+                "jump_to": "",
+                "closeable": 0,
+                "user_type": 0
+            },
+            {
+                "icon": "https://img.joymarket.io/upload/abAnnouncementRes/11f106d380197d2825239f780a560c9b.png",
+                "title": "客服弹窗",
+                "jump_type": 7,
+                "jump_to": "",
+                "closeable": 0,
+                "user_type": 0
+            }
+        ],
+        "message_num": 3
+    }
+}
